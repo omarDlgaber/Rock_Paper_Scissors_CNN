@@ -28,10 +28,3 @@ The dataset was taken from Kaggle and contains:
 - `scissors/` : 750 images
 
 ---
-
-## 🚀 How to Run
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/username/rock-paper-scissors-classification.git
-cd rock-paper-scissors-classification
