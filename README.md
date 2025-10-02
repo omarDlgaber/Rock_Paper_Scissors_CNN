@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors Image Classification 🎮
 
 This project is a **Deep Learning model** built to classify images of the popular game **Rock-Paper-Scissors** 🪨📄✂️.  
-It uses a **Convolutional Neural Network (CNN)** trained on a dataset from [Kaggle]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors)) and deployed with a simple **Gradio interface** for interactive testing.
+It uses a **Convolutional Neural Network (CNN)** trained on a dataset from [Kaggle](https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors) and deployed with a simple **Gradio interface** for interactive testing.
 
 ---
 
